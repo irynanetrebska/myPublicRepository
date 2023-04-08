@@ -40,3 +40,8 @@ h5 {
   top: 50px;
   font-size: larger;
 }
+
+.coded-by {
+  position: relative;
+  top: -18px;
+}
