@@ -45,3 +45,7 @@ h5 {
   position: relative;
   top: -18px;
 }
+
+a:link {
+  text-decoration: none;
+}
